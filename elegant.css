@@ -1,0 +1,249 @@
+
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+ul{
+    list-style-type: none;
+    margin: 50px;
+   
+}
+#one
+{
+    background-color: rgb(255, 255, 255);
+}
+.love
+{
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+
+}
+#me{
+    float: left;
+    border: solid;
+    height: 8px;
+    width: 8px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    margin-left: 10px;
+    margin-top: -22px;
+    background-color: black;
+    color: white;
+    border-radius:120px;
+    justify-content: center;
+    align-items: center;
+}
+#two
+{
+    position: absolute;
+    margin-top: 27px;
+    font-size: 25px;
+    /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
+#tictac
+{
+    font-family: "Italianno", cursive;
+}
+
+.tic
+{
+    text-align: center;
+    position: absolute;
+    margin-left: 850px;
+    margin-top: -350px;
+    color: white;
+}
+.tac
+{
+    position: absolute;
+    margin-left: 990px;
+    margin-top: -240px;
+}
+/* orbit */
+#row
+{
+    background-color: rgb(74, 66, 66);
+    margin-top: -30px;
+    width: 100%;
+    position: absolute;
+}
+.center
+{
+    display: grid;
+    grid-template-columns: repeat(3,3fr);
+    gap:10px;
+    overflow: hidden;
+   
+}
+.fresh
+{
+    border: solid;
+    border-radius: 50%;
+    box-sizing: border-box;
+    overflow: hidden;
+    padding-left: 100px;
+}
+#gum
+{
+    text-align:justify;
+    margin-left: 100px;
+    text-align:left;
+    padding-left: 10px;
+}
+#on{
+    text-align: justify;
+    margin-left: 110px;
+    
+}
+b{
+    text-align: center;
+}
+/* banner */
+.ban
+{
+    display: flex;
+    margin: 20px;
+    margin-left: 30px;
+    overflow: hidden;
+   align-items: center;
+   gap: 20px;
+}
+.ner{
+     border: none;
+     border-radius:10%;
+     /* overflow: hidden; */
+     background-color: rgb(74, 66, 66);
+
+    }
+#paint
+{
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: "Italianno", cursive;
+
+}
+.tipsy
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+.macro
+{
+    color: white;
+}
+/* picicon */
+#bar{
+    display:flex;
+    gap: 110px;
+    margin-left: 30px;
+}
+.single
+{
+    margin-left: 400px;
+}
+.filmy
+{
+    display: grid;
+    grid-template-columns: repeat(2,2fr);
+    border: none;
+    font-family: "Italianno", cursive;
+}
+.yimmy
+{
+    text-align: justify;
+    padding: 20px;
+}
+#vish
+{
+    padding-top: 70px;
+    background-color: rgb(74, 66, 66);
+    color: white;
+}
+#join
+{
+    padding-top: 70px;
+    background-color: rgb(228, 226, 221);
+
+}
+#but
+{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+   margin-left: 20px;
+   font-family: "Italianno", cursive;
+}
+#mtv
+{
+    margin-left: 20px;
+}
+#cadbury
+{
+    margin-left: 20px;
+
+    text-align: justify;
+  
+}
+#crispello
+{
+    margin-top: 20px;
+    background-color: rgb(228, 226, 221);
+
+}
+/* footer */
+.cool
+{
+    /* position: absolute; */
+    margin-top: 320px;
+    margin-left: 30px;
+    
+}
+#tiger
+{
+ margin-left: 430px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+#wake
+{
+    margin-left: 550px;
+    font-family: "Italianno", cursive;
+
+}
+.calm
+{
+    display:flex;
+}
+#ton
+{
+    margin-top: 10px;
+    padding: 5px;
+    font-family: "Italianno", cursive;
+
+}
+#crew
+{
+    font-family: "Italianno", cursive;
+
+}
+.cookie
+{
+    display: flex;
+    margin-left: -150px;
+    gap: 8px;
+}
+#copyright
+{
+    margin-left: 30px ;
+    font-family: "Italianno", cursive;
+
+}
